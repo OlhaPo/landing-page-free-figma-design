@@ -696,7 +696,7 @@ hr {
   .footer-header {
     flex-direction: column;
     align-items: start;
-    padding-left: 70px;
+    padding-left: 40px;
   }
 
   hr {
@@ -704,7 +704,7 @@ hr {
   }
 
   .footer-nav {
-    padding-left: 70px;
+    padding-left: 40px;
   }
 
   .footer-nav {
