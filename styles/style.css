@@ -627,7 +627,6 @@ hr {
 
   .main-page-info {
     flex-direction: column;
-
     gap: 50px;
     padding-left: 70px;
     padding-right: 70px;
@@ -646,7 +645,7 @@ hr {
   }
 
   #media {
-    padding: 50px 70px;
+    padding: 50px 40px;
   }
 
   .media-img {
@@ -665,8 +664,8 @@ hr {
   }
 
   #contact_us .content-area {
-    padding-left: 70px;
-    padding-right: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
   }
 
   .contact-us-form {
@@ -685,8 +684,8 @@ hr {
 
   .contact-us-footer-row {
     display: block;
-    padding-left: 70px;
-    padding-right: 70px;
+    padding-left: 40px;
+    padding-right: 40px;
   }
 
   .contact-btn {
